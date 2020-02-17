@@ -1,6 +1,7 @@
 {
   "private": true,
   "version": "3.0.0-alpha.4",
+  "name": "vue",
   "workspaces": [
     "packages/*"
   ],
